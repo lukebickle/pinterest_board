@@ -16,6 +16,7 @@ gem 'bootstrap-sass', '~> 3.3.3'
 gem 'simple_form', '~> 3.1.0'
 gem 'devise', '~> 3.4.1'
 gem 'sqlite3', '~> 1.3.10' #needed for "simple_form"
+gem 'paperclip', '~> 4.2.1'
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
